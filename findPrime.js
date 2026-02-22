@@ -13,4 +13,4 @@ function isPrime(num) {
 const arr = [4, 6, 7, 10, 11];
 const res = arr.find(num = isPrime(num));
 
-console.log(res); 7
+console.log(res); 
